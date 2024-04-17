@@ -1,9 +1,8 @@
 # Hello, I'm Nicohlas
 <a href="https://www.linkedin.com/in/nicohlasolive"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Cyber Security Student looking to break into a career as an Cyber Security Analyst. Here you will find my projects that i have completed to help build my skills as well as current Certifications. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
