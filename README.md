@@ -49,10 +49,13 @@ My objective is to utilize available projects and certifications to build my ski
 <a href="https://www.credly.com/badges/299b6d7f-08b2-4e04-af96-d31fad287358/public_url">
     <img src="https://img.shields.io/badge/-Google%20Cyber%20Security-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/-Google%20Data%20Analytics-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.credly.com/badges/83ba1d98-3eaf-4913-9426-840f6f124b10/public_url">
+    <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional%20-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</a>
+<a href="https://www.credly.com/badges/f93c1fe4-4e1c-45a7-aceb-3e3e9b2c9a97/public_url">
+    <img src="https://img.shields.io/badge/-Google%20Data%20Analytics-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</a>
+
 </div>
 
 ## Projects
