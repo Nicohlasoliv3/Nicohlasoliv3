@@ -21,7 +21,6 @@ My objective is to utilize available projects and certifications to build my ski
 |                                               | 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -44,7 +43,7 @@ My objective is to utilize available projects and certifications to build my ski
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <a href="https://www.credly.com/badges/299b6d7f-08b2-4e04-af96-d31fad287358/public_url">
     <img src="https://img.shields.io/badge/-Google%20Cyber%20Security-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
@@ -59,5 +58,4 @@ My objective is to utilize available projects and certifications to build my ski
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
