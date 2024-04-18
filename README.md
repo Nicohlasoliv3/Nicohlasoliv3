@@ -13,7 +13,7 @@ My objective is to utilize available projects and certifications to build my ski
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|                                               |
+| Vulnerability Scanning                        |Vulnerability Scanning with Nmap: Network Scanning(Coursera)
 |                                               | 
 |                                               | 
 |                                               | 
