@@ -8,8 +8,8 @@ I am a Cyber Security Student looking to break into a career as an Cyber Securit
 
 My objective is to utilize available projects and certifications to build my skills and develop new ones.
 
-## Skills
-[Skills & Associated Projects Coming Soon]]
+## Skills & Projects
+[Skills & Associated Projects Updated Once a Month]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -57,5 +57,4 @@ My objective is to utilize available projects and certifications to build my ski
 
 </div>
 
-## Projects
 
