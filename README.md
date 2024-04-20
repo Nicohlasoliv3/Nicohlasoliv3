@@ -13,7 +13,7 @@ My objective is to utilize available projects and certifications to build my ski
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Scanning                        |Vulnerability Scanning with Nmap: Network Scanning  <a href="https://github.com/Nicohlasoliv3/Vulnerability-Project" /></a>
+| Vulnerability Scanning                        |<a href="https://github.com/Nicohlasoliv3/Vulnerability-Project" />Vulnerability Scanning with Nmap: Network Scanning </a>
 |                                               | 
 |                                               | 
 |                                               | 
