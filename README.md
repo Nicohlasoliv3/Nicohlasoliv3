@@ -14,7 +14,7 @@ My objective is to utilize available projects and certifications to build my ski
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Scanning                        |<a href="https://github.com/Nicohlasoliv3/Vulnerability-Project" />Vulnerability Scanning with Nmap: Network Scanning </a>
-| Packet Capture                                | 
+| Packet Capture                                |<a href="https://github.com/Nicohlasoliv3/Wireshark-Project" /> Wireshark for Beginners: Capture Packets </a>
 |                                               | 
 |                                               | 
 |                                               | 
