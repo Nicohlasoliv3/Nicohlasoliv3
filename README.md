@@ -14,7 +14,7 @@ My objective is to utilize available projects and certifications to build my ski
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Scanning                        |<a href="https://github.com/Nicohlasoliv3/Vulnerability-Project" />Vulnerability Scanning with Nmap: Network Scanning </a>
-| Python Quiz Game                              |                                 
+| Python Quiz Game                              |<a herf="https://github.com/Nicohlasoliv3/Python-Project" />Python Quiz Game Project </a>                               
 |  More Projects Coming Soon                    | 
 |                                               | 
 |                                               | 
