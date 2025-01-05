@@ -14,8 +14,8 @@ My objective is to utilize available projects and certifications to build my ski
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Scanning                        |<a href="https://github.com/Nicohlasoliv3/Vulnerability-Project" />Vulnerability Scanning with Nmap: Network Scanning </a>
-| Python Quiz Game                              |<a href="https://github.com/Nicohlasoliv3/Python-Project" />Python-Project </a>                              
-| Mastercard-Job-Simulation                     |<a href= "https://github.com/Nicohlasoliv3/Mastercard-Cybersecurity-Training" /> Mastercard-Job-Simulation  </a>
+| Mastercard-Job-Simulation                     |   <a href= "https://github.com/Nicohlasoliv3/Mastercard-Cybersecurity-Training" /> Mastercard-Job-Simulation  </a>                      
+|                                               |
 | More Projects Coming Soon                     | 
 |                                               | 
 |                                               | 
